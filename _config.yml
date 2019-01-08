@@ -10,7 +10,7 @@ title: Miguel Angel Gutiérrez blog
 description: > # this means to ignore newlines until "baseurl:"
   Never Surrender | Ne jamais se rendre
 url: "https://mainformatico.github.io/"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 twitter_username: MAInformatico
 github_username:  MAInformatico
 stackoverflow_username: constante
