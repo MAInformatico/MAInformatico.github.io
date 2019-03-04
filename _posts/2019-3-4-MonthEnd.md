@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mon Propre Projet!
+title: MonthEnd release!
 author: Migue
 tags: [Technology]
 ---
