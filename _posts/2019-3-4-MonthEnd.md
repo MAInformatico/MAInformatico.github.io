@@ -15,5 +15,5 @@ The code is available under the Apache license. So feel free to check it out!
 The app will receive more features soon. As you can see it's free software so any help or sugestion is more than welcome. 
 
 I hope you find MonthEnd useful.
-[Repo link:](https://github.com/MAInformatico/MonthEnd)
+[Repo link](https://github.com/MAInformatico/MonthEnd)
  
