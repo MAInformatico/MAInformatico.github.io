@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MonthEnd new feature: export pdf
+title: MonthEnd new feature - export pdf
 author: Migue
 tags: [Technology]
 ---
