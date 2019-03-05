@@ -12,6 +12,8 @@ The feature "Export to pdf", as the name suggests, let you download your own res
 
 To do this new feature. I've use jQuery and jsPDF libraries. jQuery and jsPDF have MIT license (MIT and GPL too in the case of jQuery) that's mean that our Apache license can be used including the both license mentioned.
 
+To use it, just press the button called: "Export to pdf"
+
 
 Meantime, the aplication is progressing :)
 
