@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you can think it, you can code it
+title: The last matter about Firefox
 author: Migue
 tags: [Technology]
 ---
