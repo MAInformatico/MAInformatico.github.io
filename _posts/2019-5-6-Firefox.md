@@ -11,6 +11,8 @@ The matter was that the certificates of our plugin was expired. So the browser c
 Finally Mozilla has solve the problem launching an update of the browser (v. 66.04). But what happen with us, Debian user? One of the principal features of Debian is the stability of its packages. So the update is available for us? The answer is: yes.
   
 While I'm writting this post, we've available an update of our browser. So just execute a terminal and the commands: apt-get update; apt-get upgrade or use a tool as Synaptic if you prefer to update your Firefox version and continue use it.
-
+  
+  
+    
 
 ##### When you're working, you're working. When you're studying, you're studying. When you're working out, you're working out. And then you do wherever you want (My friend Mayoro)
