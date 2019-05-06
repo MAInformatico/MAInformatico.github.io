@@ -16,7 +16,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 * Memories of a mangy lover - Groucho Marx (his autobiography)
 * Hacker ethics and the spirit of the information age - Pekka Himanen
 * The power of now - Eckhart Tolle
-
+* The Pragmatic Programmer - Andrew Hunt and David Thomas 
   
   
 
