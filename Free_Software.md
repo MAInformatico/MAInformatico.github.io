@@ -10,7 +10,7 @@ Thanks to the contribution of youtubers, as well as other people who released th
 
 Now it's my turn to give back to the community that help I had when I needed it. This a short list, at the moment, of projects that I had collaborate and make me so glad to contribute to them realization:
 
-* [al-go-rithms] (https://github.com/ZoranPandovski/al-go-rithms)
+* [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms)
   
 
 ### “If you can think it, you can code it!”
