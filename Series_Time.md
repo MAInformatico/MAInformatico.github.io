@@ -14,8 +14,10 @@ Since 2016 with "Person of Interest", to now I've seen the next list of TV Serie
 * Dexter
 * Game of Thrones
 * Vikings
-* Doom Patrol (Currently)  
+* Silicon Valley
+* Doom Patrol
 * Love Death and Robots
+* Rick & Morty
   
 
 ### “Never limit yourself”
