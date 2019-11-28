@@ -5,7 +5,7 @@ author: Migue
 tags: [Technology]
 ---
 
-If you want to improve I recommend you read this [post] (https://hackernoon.com/i-live-in-a-small-town-in-russia-write-books-on-asynchronous-php-and-give-talks-on-international-po-nveg320t)
+If you want to improve I recommend you read this [post](https://hackernoon.com/i-live-in-a-small-town-in-russia-write-books-on-asynchronous-php-and-give-talks-on-international-po-nveg320t)
    
 It is the story of how a person can achieve their purposes. There are a lot of post in Internet about it, and this is awesome. However we can forget the main element to achieve your purpose: discipline.
    
