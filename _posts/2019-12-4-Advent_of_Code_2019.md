@@ -2,7 +2,7 @@
 layout: post
 title: Advent of Code 2019
 author: Migue
-tags: [Technology]
+tags: [Programming]
 ---
 
 I am participating on the event [Advent of Code 2019](https://adventofcode.com/). It is a programming event where each day from 1 to December 25 a new exercise is release.
