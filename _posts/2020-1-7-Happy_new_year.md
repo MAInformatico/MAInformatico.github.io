@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advent of Code 2019
+title: Happy new year 2020!
 author: Migue
 tags: [Programming]
 ---
