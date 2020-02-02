@@ -4,20 +4,21 @@ title: TV Series time!
 permalink: /Series_Time/
 ---
 
-Since 2016 with "Person of Interest", to now I've seen the next list of TV Series (all in VO with English subtitules):
+Since 2016 with "Person of Interest", to now I have seen (or I am currently watching) the next list of TV Series (all in VO with English subtitules):
 
 * Person of Interest
 * How not to live your life (recommended by Oscar)
+* The IT Crowd
 * Mr Robot
 * Sons of Anarchy
 * Breaking Bad
 * Dexter
 * Game of Thrones
-* Vikings
+* **Vikings**
 * Silicon Valley
-* Doom Patrol
-* Love Death and Robots
-* Rick & Morty
+* **Love Death and Robots**
+* **Rick & Morty**
   
+  (The bold titles means that the serie continues to be recorded)
 
 ### “Never limit yourself”
