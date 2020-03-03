@@ -18,6 +18,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 * The power of now - Eckhart Tolle
 * The Pragmatic Programmer - Andrew Hunt and David Thomas 
 * The Mamba Mentality - Kobe Bryant
+* Eleven Rings: The Soul of the Success - Phil Jackson
   
   
 
