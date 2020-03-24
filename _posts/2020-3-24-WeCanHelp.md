@@ -16,7 +16,7 @@ Piensalo, por favor ¡Quédate en casa! y colabora si te es posible.
 
 The company Nvidia has proposed that we use our graphic cards to help the research of COVID-19 through [Folding@home](https://foldingathome.org/)
   
-Throug this project at Stanford University, we are putting the hardware power of our computers at the service of research into the fight against this virus.
+Through this project at Stanford University, we are putting the hardware power of our computers at the service of research into the fight against this virus.
  
 Many doctors, nurses, polices, militaries, transporters, farmers are fighting against this pandemic every day. We must collaborate in this fight!
 
