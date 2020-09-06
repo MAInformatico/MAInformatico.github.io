@@ -14,10 +14,11 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * Breaking Bad
 * Dexter
 * Game of Thrones
-* **Vikings**
+* Vikings
 * Silicon Valley
-* **Love Death and Robots**
 * **Rick & Morty**
+* **Family Guy**
+
   
   (The bold titles means that the serie continues to be recorded)
 
