@@ -19,6 +19,8 @@ Events that I have attended (as listener):
 * [esLibre2020](https://eslib.re/2020/programa/)
 * [pycon2020](https://2020.es.pycon.org/index.html#agenda)
 
+Online events that I have participate:
 
+* [Advent of Code 2020](https://adventofcode.com/)
 
 ### “If you can think it, you can code it!”
