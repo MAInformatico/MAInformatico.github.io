@@ -8,6 +8,7 @@ Men sana in corpore sano, This quote is essential for our purposes. We cannot fo
 
 (In Spanish)
 * [Buff Academy](https://www.youtube.com/channel/UCuzmut0enwi-LrnyYwD0NCA/featured)
+* [Sergio Peinado] (https://www.youtube.com/user/EntrenaSergioPeinado)
 * [Turbosteps](https://www.youtube.com/user/turbofausto)
 * [Valenti Sanjuan](https://www.youtube.com/user/valentiestaloco)
 * [Kass Calistenia](https://www.youtube.com/channel/UCq7Vhs9nroHJpXXM1mnu4gw)
