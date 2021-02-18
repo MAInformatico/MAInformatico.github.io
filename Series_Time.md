@@ -23,16 +23,18 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * Altered Carbon
 * **South Park**
   
-
   
-
+  
+  
 * ## Series in French:
   * **Lupin**
   
-
+  
 
   
-  
+
+    
+
   (The bold titles means that the serie continues to be recorded)
 
-### “Never limit yourself”
+# “Never limit yourself”
