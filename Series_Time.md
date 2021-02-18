@@ -19,7 +19,7 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * The Last Dance
 * Rick & Morty
 * Family Guy
-* The Queen's Gambit
+* The Queen's Gambit (specially recomended to chess player)
 * Altered Carbon
 * **South Park**
   

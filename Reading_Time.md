@@ -17,7 +17,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 * Hacker ethics and the spirit of the information age - Pekka Himanen
 * The power of now - Eckhart Tolle
 * The Pragmatic Programmer - Andrew Hunt and David Thomas 
-* The Mamba Mentality - Kobe Bryant
+* The Mamba Mentality - Kobe Bryant (one of my favorites books)
 * Eleven Rings: The Soul of the Success - Phil Jackson
   
   
