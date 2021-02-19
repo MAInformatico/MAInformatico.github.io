@@ -4,7 +4,7 @@ title: TV Series time!
 permalink: /Series_Time/
 ---
 
-Since 2016 with "Person of Interest", to now I have seen (or I am currently watching) the next list of TV Series (all in VO with English subtitules) and since 2021 with "Lupin" I have begin to watch some in French too:
+Since 2016 with "Person of Interest", to now I have seen (or I am currently watching) the next list of TV Series (all in VO with English subtitules) and since 2021 with "Lupin" I have begun to watch some in French too:
 
 * Person of Interest
 * How not to live your life (recommended by Oscar)
