@@ -14,6 +14,7 @@ Men sana in corpore sano, This quote is essential for our purposes. We cannot fo
 * [Kass Calistenia](https://www.youtube.com/channel/UCq7Vhs9nroHJpXXM1mnu4gw)
 
 (In English)
+* [HannibalForKing](https://www.youtube.com/user/HannibalForKing1)
 * [OfficialBarstarzz](https://www.youtube.com/user/OfficialBarstarzz)
 * [OFFICIALTHENX](https://www.youtube.com/user/TheMiamiTrainer)
 * [Bar Brothers](https://www.youtube.com/user/novoic)
