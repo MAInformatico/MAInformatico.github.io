@@ -4,6 +4,8 @@ title: Reading time!
 permalink: /Reading_Time/
 ---
 
+Currently reading: Meditations - Marco Aurelio
+
 Since 2015 with "Operación Princesa", to now I've read the next list of books:
 
 * Collection Antonio Salas (over 5 books)
@@ -22,4 +24,4 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
   
   
 
-### “A mind needs books like a sword needs a whetstone, if it is to keep its edge. That is why I read so much.” (Tyrion Lannister - A game of Thrones)
+> “A mind needs books like a sword needs a whetstone, if it is to keep its edge. That is why I read so much.” (Tyrion Lannister - A game of Thrones)

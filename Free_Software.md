@@ -23,4 +23,4 @@ Online events that I have participate:
 
 * [Advent of Code 2020](https://adventofcode.com/)
 
-### “If you can think it, you can code it!”
+> “If you can think it, you can code it!”

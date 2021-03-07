@@ -21,4 +21,4 @@ Men sana in corpore sano, This quote is essential for our purposes. We cannot fo
 * [OFFICIALTHENX](https://www.youtube.com/user/TheMiamiTrainer)
 * [Bar Brothers](https://www.youtube.com/user/novoic)
 
-### “Men sana in corpore sano”
+> “Men sana in corpore sano”
