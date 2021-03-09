@@ -12,3 +12,5 @@ The constancy of sport coupled with the problem solving of the programming creat
 #### More Information
 
 As well as my professional career I'm passionate of sport (as I mentioned), heavy metal, chess and reading.
+
+> Never Surrender!
