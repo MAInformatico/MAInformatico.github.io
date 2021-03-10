@@ -13,4 +13,4 @@ We will receive daily two problems, the second will be unlocked once the first o
 If you wish to test your skills and improve them, this is the link: [Advent of Code 2020](https://adventofcode.com/)
  
 
-#### “Never surrender” 
+> “Never surrender” 

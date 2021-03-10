@@ -13,4 +13,4 @@ This new situation requires us to be more responsible than ever. Nobody knows wh
 This is a new situation for everybody, take care of yourself and your family. Keep going until this situation end.
  
 
-#### “Never surrender” 
+> “Never surrender” 

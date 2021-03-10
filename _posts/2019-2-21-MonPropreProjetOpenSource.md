@@ -14,4 +14,4 @@ Pour le control de version, je utilicé git et gitHub pour inclusive les commits
 
 Si tu ne peux pas recherche une chose, Croyez-le!
 
-### Si tu ne peux pas recherche une chose, Croyez-le! (Moi)
+> Si tu ne peux pas recherche une chose, Croyez-le! (Moi)

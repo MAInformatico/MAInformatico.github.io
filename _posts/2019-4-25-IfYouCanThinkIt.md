@@ -17,4 +17,4 @@ Anyway, don't limit yourself nor don't subestimate yourself. If you think that y
 So, if you can think it, you can code it. Do things, fail, try again but never give up and keep it doing. It's the only way to be better.
 
 
-#### Never surrender
+> Never surrender

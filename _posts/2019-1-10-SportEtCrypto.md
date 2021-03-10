@@ -14,4 +14,4 @@ Dans totus les cas c'est une bonne motivation pour faire du sport et avoir une v
 
 Salutation!
 
-### "Iterate is human, "recursive" divine" (L. Peter Deustch)
+> "Iterate is human, "recursive" divine" (L. Peter Deustch)

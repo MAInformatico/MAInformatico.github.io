@@ -19,4 +19,4 @@ Do you hate it too? Probably yes if you are a rookie working out and you are in 
 ### Discipline is a powerful resource
 Discipline is one of the most powerful resource that we can to develop or improve. I am not telling that it will be easy, I am telling you that discipline pays off. Develop it depends of you and your mind. It is free and it is inside you. Do it and be unstoppeable!
 
-#### Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure (Coach Carter)
+> Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure (Coach Carter)

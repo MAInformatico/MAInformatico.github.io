@@ -13,4 +13,4 @@ At the moment is being a really good experience.
 
 So I must to say thank you to Migue for recommending me.
 
-#### “Practice makes the master” 
+> “Practice makes the master” 

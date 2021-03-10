@@ -13,4 +13,4 @@ The most famous languages as Java or Python "don't have pointers" but Java uses 
 
 
 
-## "So never limit yourself and still learning and be your best version"
+> "So never limit yourself and still learning and be your best version"

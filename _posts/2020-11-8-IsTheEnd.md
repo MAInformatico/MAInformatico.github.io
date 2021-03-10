@@ -19,4 +19,4 @@ It means that you must to take care of your health and your career. I put health
 Take care of your career, research, create, do wherever you want but keep learning and take responsability of yourself.
  
 
-#### “Check your resources and use them in your benefit (this quote is mine)” 
+> “Check your resources and use them in your benefit (this quote is mine)” 

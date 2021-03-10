@@ -17,4 +17,4 @@ Fortunately, there're several alternatives that also offers us this feature as:
 
 Greetings!
 
-### "First solve the problem, then write the code" (John Johnson)
+> "First solve the problem, then write the code" (John Johnson)

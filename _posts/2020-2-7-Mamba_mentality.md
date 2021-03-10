@@ -28,4 +28,4 @@ How many things can you think during 70 days each year? Reading? Working out? Ta
 This is your time, you decide how to spend it right now.
 
 
-#### “Don't waste your time” 
+> “Don't waste your time” 

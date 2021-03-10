@@ -16,4 +16,4 @@ When I was a kid I watched on TV a famous football coach use it. Many times I th
  
 Now I know it and I am doing the same. Not only for code, even to write ideas or any other thing that I do not want to forget.
 
-#### “Never surrender” 
+> “Never surrender” 

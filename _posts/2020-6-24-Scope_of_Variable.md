@@ -17,4 +17,4 @@ The most important thing of this is: learn from my error. The issue is not fail,
  
 It is the only way to improve your skills and growth as professional.
 
-#### “Never surrender” 
+> “Never surrender” 
