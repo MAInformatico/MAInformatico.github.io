@@ -17,8 +17,8 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * Vikings
 * Silicon Valley
 * The Last Dance
-* Rick & Morty
-* Family Guy
+* **Rick & Morty**
+* **Family Guy**
 * The Queen's Gambit (specially recomended to chess player)
 * Altered Carbon
 * **Brooklyn Nine-Nine**
