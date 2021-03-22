@@ -21,6 +21,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 * The Pragmatic Programmer - Andrew Hunt and David Thomas 
 * The Mamba Mentality - Kobe Bryant (one of my favorites books)
 * Eleven Rings: The Soul of the Success - Phil Jackson
+* La Buena suerte - Alex Rovira
   
   
 
