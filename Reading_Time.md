@@ -11,6 +11,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 1. Technical books:
     * Hacker ethics and the spirit of the information age - Pekka Himanen
     * The Pragmatic Programmer - Andrew Hunt and David Thomas
+    * Clean Code - Robert C. "Uncle Bob" Martin
   
 
 2. Non technical books:
