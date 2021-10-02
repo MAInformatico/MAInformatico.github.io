@@ -18,6 +18,7 @@ Events that I have attended (as listener):
 * [JASYP2018](https://interferencias.tech/jasyp/18/)
 * [esLibre2020](https://eslib.re/2020/programa/)
 * [pycon2020](https://2020.es.pycon.org/index.html#agenda)
+* [pycon2021](https://2021.es.pycon.org/#schedule)
 
 Online events that I have participate:
 
