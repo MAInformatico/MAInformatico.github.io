@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Miguel Angel Gutiérrez, In 2018 I began this blog. It contains posts about technology, computer sciences or other interested subjects as sport.
+I'm Miguel Angel Gutiérrez, software developer. In 2018 I began this blog. It contains posts about technology, computer sciences or other interested subjects as sport.
 
 Apparently sport and technology do not have much to do with other. Nothing could be further from the truth, both areas complement each other.
   
