@@ -22,7 +22,7 @@ Events that I have attended (as listener):
 
 Online events that I have participate:
 
-* [Advent of Code 2020](https://adventofcode.com/)
-* [Advent of Code 2021](https://adventofcode.com/)
+* [Advent of Code 2020](https://adventofcode.com/) language used: Python3
+* [Advent of Code 2021](https://adventofcode.com/) language used: Javascript (nodejs framework)
 
 > “If you can think it, you can code it!”
