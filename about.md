@@ -7,7 +7,7 @@ I'm Miguel Angel Gutiérrez, software developer. In 2018 I began this blog. It c
 
 Apparently sport and technology do not have much to do with other. Nothing could be further from the truth, both areas complement each other.
   
-The constancy of sport coupled with the problem solving of the programming creates two essential skills for work and personal life.
+The constancy and discipline of sport coupled with the problem solving of the programming creates three essential skills for work and personal life.
 
 #### More Information
 
