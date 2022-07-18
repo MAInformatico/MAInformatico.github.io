@@ -12,11 +12,7 @@ This command allow us to remove our last commit, in case of our commit has been 
 
 * If we have not commited our changes
 You can revert the change using this command:
-`git reset --soft HEAD~1` (if you wish to keep your changes)
-
-or
-
-`git reset --soft HEAD~1` (if you do not want to keep your changes)
+`git reset --soft HEAD~1` (if you wish to keep your changes) or `git reset --soft HEAD~1` (if you do not want to keep your changes)
 
 I hope these commands can be helpfull for you, specially on those moments that we feel stressed by a mistake.
 
