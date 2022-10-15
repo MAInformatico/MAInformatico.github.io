@@ -17,6 +17,7 @@ Since 2015 with "Operación Princesa", to now I've read the next list of books:
 
 2. Non technical books:
     * Collection Antonio Salas (over 5 books)
+    * Tao of Jet Kune Doo Bruce Lee
     * Fight Club - Chuck Palahniuk
     * The Art of War - Sun Tzu
     * The Anticrist - Friedrich Nietzsche
