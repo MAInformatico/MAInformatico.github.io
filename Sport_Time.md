@@ -4,7 +4,7 @@ title: Time to train!
 permalink: /Sport_Time/
 ---
 
-Men sana in corpore sano, This quote is essential for our purposes. We cannot forget the soft skills and specially our health. So, if you do not know how to begin to train or you want to learn something new or test another train, these are my favourite fitness youtubers channels, I hope the list can be helpful to you:
+Men sana in corpore sano, This quote is essential for our purposes. We cannot forget the soft skills and specially our health. So, if you do not know how to begin to train or you want to learn something new or test another train, these are my favorite fitness youtubers channels, I hope the list can be helpful to you:
 
 (In Spanish)
 * [Buff Academy](https://www.youtube.com/channel/UCuzmut0enwi-LrnyYwD0NCA/featured)
