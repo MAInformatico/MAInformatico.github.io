@@ -21,7 +21,7 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * **Family Guy**
 * The Queen's Gambit (specially recommended to chess player)
 * Altered Carbon
-* **Brooklyn Nine-Nine**
+* Brooklyn Nine-Nine
 * **South Park**
 * Ultrasecrets
 * **The Witcher**
