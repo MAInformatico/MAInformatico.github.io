@@ -6,7 +6,7 @@ author: Migue
 
 Yesterday I received a phising email. The message tried to simulate an email from Microsoft, related to my Teams account, that was blocked after too many atempt to login.
 
-The message included an blue button called "View my activity". I checked my account and it was true that was blocked.
+The message included an blue button called "View my activity" DO NOT PRESS IT. I checked my account and it was true that was blocked.
 
 However I did not use it for years, so that make me feel suspicious. At this point, I decided to change my password in the Microsoft site (please, always be sure that you are in the official website).
 
