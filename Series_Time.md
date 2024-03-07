@@ -30,6 +30,7 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * The Consultant
 * Suits
 * Jack Ryan
+* Seinfield
 
   
 
