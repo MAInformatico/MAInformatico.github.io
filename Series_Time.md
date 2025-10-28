@@ -41,6 +41,8 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * ## Series in French:
   * Lupin
 
+* ## Series in German:
+  * Dark
 
   
   

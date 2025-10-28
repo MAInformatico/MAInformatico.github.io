@@ -26,5 +26,6 @@ Online events that I have participate:
 * [Advent of Code 2020](https://adventofcode.com/) language used: Python3
 * [Advent of Code 2021](https://adventofcode.com/) language used: Javascript (nodejs framework)
 * [Advent of Code 2022](https://adventofcode.com/) language used: Python3
+* [Advent of Code 2024](https://adventofcode.com/) language used: Python3
 
 > “If you can think it, you can code it!”
