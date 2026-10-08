@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Miguel Angel Gutiérrez, software engineer focused on Python, APIs, and building scalable systems. In 2018 I began this blog. It contains posts about technology, computer sciences or other interested subjects as sport.
+I'm Miguel Angel Gutiérrez,  a senior backend engineer focused on Python, APIs, and building scalable systems. I started this blog in 2018 to write about technology, computer science, and whatever else catches my attention — including sport.
 
-Apparently sport and technology do not have much to do with other. Nothing could be further from the truth, both areas complement each other.
-  
-The constancy and discipline of sport coupled with the problem solving of the programming creates three essential skills for work and personal life.
+Sport and technology might seem unrelated, but I've always found them complementary. The consistency and discipline of sport, coupled with the problem-solving mindset of programming, shape how I approach both work and life.
 
-Enjoy your visit!
+When I'm not writing code, you'll find me following sports, listening to heavy metal, playing chess, or reading.
+
+Enjoy your visit.
 
 #### More Information
 

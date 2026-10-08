@@ -38,7 +38,6 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * Endeavour
 * The Young Sherlock
 * Sherlock
-
   
 
 * ## Series in French:
@@ -47,6 +46,8 @@ Since 2016 with "Person of Interest", to now I have seen (or I am currently watc
 * ## Series in German:
   * Dark
 
+* ## Series in Catala:
+  * Merli
   
   
   (Bold titles means that the series continues to be recorded)
