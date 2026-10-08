@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Building an LLM-powered job analyzer: architecture, trade-offs, and lessons learned
+title: Building an LLM-powered job analyzer architecture, trade-offs, and lessons learned
 author: Migue
 ---
+
 Job searching is a marathon. You keep reading offers, checking if they match your stack, your shift preferences, your remote/hybrid constraints, and deciding whether to apply. After dozens of them, you're tired. It's repetitive, and it drains time you could spend on actual applications.
 
 So I built a previous filter to answer one question: **is this offer worth my time?**
