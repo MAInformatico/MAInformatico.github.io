@@ -1,0 +1,9 @@
+dist/
+.output/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.env
+.env.production
+.DS_Store
+.idea/

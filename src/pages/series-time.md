@@ -1,0 +1,53 @@
+---
+layout: ../layouts/Page.astro
+title: 'TV Series time!'
+description: 'Series que he visto'
+---
+
+Since 2016 with "Person of Interest", to now I have seen (or I am currently watching) the next list of TV Series (all in VO with English subtitles) and since 2021 with "Lupin" I have begun to watch some in French too:
+
+* Person of Interest
+* How not to live your life (recommended by Oscar)
+* The IT Crowd
+* Mr Robot
+* Sons of Anarchy
+* Breaking Bad
+* Dexter
+* Game of Thrones
+* Vikings
+* Silicon Valley
+* The Last Dance
+* **Rick & Morty**
+* **Family Guy**
+* The Queen's Gambit (specially recommended to chess player)
+* Altered Carbon
+* Brooklyn Nine-Nine
+* **South Park**
+* Ultrasecrets
+* **The Witcher**
+* Peaky Blinders
+* Stranger Things
+* The Consultant
+* Suits
+* Jack Ryan
+* Seinfield
+* **Fallout**
+* This is us
+* Upload
+* The Devil's hour
+* Endeavour
+* The Young Sherlock
+* Sherlock
+
+* ## Series in French:
+  * Lupin
+
+* ## Series in German:
+  * Dark
+
+* ## Series in Catala:
+  * Merli
+
+(Bold titles means that the series continues to be recorded)
+
+> "Never limit yourself"
